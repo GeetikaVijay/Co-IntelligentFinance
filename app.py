@@ -381,7 +381,7 @@ auto_adjust = st.sidebar.checkbox(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.caption("M.Tech. Research Project - Co-Intelligent Finance: AI-driven transformations in Capital Market, Stock & Risk Prediction - created by & Geetika Vijay (M24DE3035)")
+st.sidebar.caption("M.Tech. Research Project - Co-Intelligent Finance: AI-driven transformations in Capital Market, Stock & Risk Prediction - created by Geetika Vijay (M24DE3035)")
 
 # ------------- Main UI -------------
 
