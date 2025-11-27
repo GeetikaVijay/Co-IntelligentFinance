@@ -385,7 +385,7 @@ st.sidebar.caption("M.Tech. Research Project - Co-Intelligent Finance: AI-driven
 
 # ------------- Main UI -------------
 
-st.title("📊 Market Analysis 📈")
+st.title("Co-Intelligent Finance: 📈")
 
 if not all_tickers:
     st.info("Select at least one ticker from the sidebar or add custom tickers.")
